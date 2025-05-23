@@ -1,0 +1,13 @@
+Introdução à Programação com Python
+
+Python é uma linguagem simples e poderosa, ideal para iniciantes.
+
+Exemplo de código em Python:
+nome = input("Qual é o seu nome? ")
+print("Olá,", nome)
+
+Principais comandos:
+- print(): exibe mensagens na tela
+- input(): recebe dados do usuário
+- if, elif, else: estruturas de decisão
+- for, while: laços de repetição

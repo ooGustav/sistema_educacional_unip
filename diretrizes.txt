@@ -1,0 +1,25 @@
+DIRETRIZES DE PRIVACIDADE E PROTEÇÃO DE DADOS – Plataforma de Educação Digital
+
+Esta plataforma foi desenvolvida com base nos princípios da Lei Geral de Proteção de Dados Pessoais (LGPD – Lei nº 13.709/2018), garantindo a privacidade e a segurança dos dados de todos os usuários.
+
+1. COLETA DE DADOS
+Coletamos apenas os dados essenciais para o funcionamento da plataforma: nome, e-mail e senha. Esses dados são utilizados exclusivamente para autenticação, personalização de conteúdo e acompanhamento do progresso educacional.
+
+2. ARMAZENAMENTO SEGURO
+As senhas dos usuários são armazenadas em formato criptografado (hash), garantindo que não sejam acessíveis nem mesmo pelos administradores da plataforma.
+
+3. USO DOS DADOS
+Os dados são utilizados apenas internamente, com o objetivo de oferecer uma experiência educacional personalizada e segura. Nenhum dado é compartilhado com terceiros.
+
+4. DIREITO DOS USUÁRIOS
+A qualquer momento, o usuário pode solicitar a exclusão de sua conta e de todos os seus dados da plataforma. Essa opção está disponível diretamente no menu principal do sistema.
+
+5. CONSENTIMENTO
+Ao se cadastrar na plataforma, o usuário declara estar ciente e de acordo com os termos de uso e com esta política de privacidade.
+
+6. ATUALIZAÇÕES
+Esta política pode ser atualizada periodicamente para refletir melhorias na segurança e conformidade legal. É responsabilidade do usuário consultar as atualizações disponíveis na plataforma.
+
+Para dúvidas ou sugestões sobre privacidade e proteção de dados, entre em contato com a equipe responsável pelo sistema.
+
+Plataforma de Educação Digital – Projeto Acadêmico

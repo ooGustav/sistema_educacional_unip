@@ -1,0 +1,11 @@
+Lógica Computacional
+
+A lógica é a base do raciocínio computacional. Com ela, você aprende a estruturar soluções para problemas usando regras simples, como:
+
+- Operadores lógicos: E (and), OU (or), NÃO (not)
+- Condições: Se... então...
+- Estruturas de decisão: if, else
+
+Exemplo:
+Se você tem mais de 18 anos, pode votar.
+Se NÃO estiver chovendo, podemos sair.
