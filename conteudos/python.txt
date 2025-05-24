@@ -1,6 +1,6 @@
 Introdução à Programação com Python
 
-Python é uma linguagem simples e poderosa, ideal para iniciantes.
+Python é uma linguagem simples, ideal para iniciantes.
 
 Exemplo de código em Python:
 nome = input("Qual é o seu nome? ")
